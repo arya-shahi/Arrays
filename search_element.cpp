@@ -20,3 +20,8 @@ int main() {
     return 0;
         
 }
+
+/*
+the number to search 6
+position of the number is 6
+*/
