@@ -8,7 +8,7 @@ VS Code
 
 ## Theory
 
-1. Arrays in C++
+Arrays in C++
 Concepts Covered:  
 
 Memory allocation for arrays    
@@ -22,5 +22,5 @@ Calculating sum and average of elements
 
 
 
-## Copnclusion
+## Conclusion
 Learned about basics of arrays and performed programs using arrays
