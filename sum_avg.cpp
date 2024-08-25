@@ -14,3 +14,13 @@ int main(){
     cout<<"Average is: "<<sum/5;
 
 }   
+
+/*
+Enter five elements 4
+5
+6
+3
+3
+Sum is: 21
+Average is: 4
+*/
